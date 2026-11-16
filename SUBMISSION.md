@@ -1,4 +1,4 @@
-# SignalGlass — submission draft
+# SignalGlass — submitted entry
 Target: #BuildHybridAI 2026 · Web/Chrome · New project begun 17 November 2026 (Brisbane).
 
 ## Elevator pitch
@@ -35,10 +35,11 @@ JavaScript, HTML5, CSS3, SVG, Firebase AI Logic, Firebase App Check, Gemini, reC
 Demo: https://cimmonster1-art.github.io/signalglass/
 Source: https://github.com/cimmonster1-art/signalglass
 Recorder: https://cimmonster1-art.github.io/signalglass/demo.html
-Public YouTube URL: pending upload approval and verification.
+Public YouTube URL: https://youtu.be/HCVybU9fzCw (1:17)
+Devpost: https://devpost.com/software/signalglass
 
 ## Judge instructions
 No login or payment. Load the six-report festival scenario. Choose R01 and record a reason. Add a new West gate report and observe the decision reopen. Move replay to inspect earlier evidence. For AI, click Draft with AI to try device-only. On a browser without the local model, observe the explicit error. With synthetic data only, check Allow Google cloud fallback and generate again. Successful outputs show the actual inference source. Free-tier quota or App Check may limit cloud availability. Use a supported Chrome version and the official Firebase hybrid setup instructions for on-device testing. Public Firebase web configuration is a client identifier; no private Gemini server key or debug token is published.
 
 ## Status
-Draft only. Registration, public video and final submission not yet completed.
+Submitted to #BuildHybridAI 2026 on 17 November 2026 (Brisbane). Devpost entry 1308271; public page shows Submitted to #BuildHybridAI 2026. Registration and public YouTube upload completed. Cloud inference tested; successful on-device execution remains unverified. No prize result or payment claimed.
